@@ -21,5 +21,5 @@ Wi-Dos is a firmware that performs Deauth Attacks, A Deauthentication attack is 
 
 
 ![Wi-Dos](https://github.com/Adityaraj6/Wi-Dos/blob/main/Wi%20Dos.png)
-<img src="https://github.com/Adityaraj6/Wi-Dos/blob/main/Wi%20Dos.png" width="1000" height="1500">
+<img src="https://github.com/Adityaraj6/Wi-Dos/blob/main/Wi%20Dos.png" width="500" height="720">
 

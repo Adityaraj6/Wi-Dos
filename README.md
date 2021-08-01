@@ -20,4 +20,4 @@ Wi-Dos is a firmware that performs Deauth Attacks, A Deauthentication attack is 
 4. Then they Scan all wireless network around you, select Target & Done   
 
 
-![Wi-Dos](https://github.com/Adityaraj6/Wi-Dos/blob/main/Wi%20Dos.png)
+![Wi-Dos](https://github.com/Adityaraj6/Wi-Dos/blob/main/Wi%20Dos.png | width=100)

@@ -11,6 +11,7 @@ Wi-Dos is a firmware that performs Deauth Attacks, A Deauthentication attack is 
 
 2. Connect the network adapter and turn on the monitor mode 
 
+  `airmon-ng start wlan0`
 
 3. Type this simple command and hit enter
   
@@ -20,6 +21,8 @@ Wi-Dos is a firmware that performs Deauth Attacks, A Deauthentication attack is 
 4. Then they Scan all wireless network around you, select Target & Done   
 
 
-![Wi-Dos](https://github.com/Adityaraj6/Wi-Dos/blob/main/Wi%20Dos.png)
+## Screenshot
+
+
 <img src="https://github.com/Adityaraj6/Wi-Dos/blob/main/Wi%20Dos.png" width="660" height="856">
 

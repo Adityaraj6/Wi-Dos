@@ -2,14 +2,14 @@
 ## WiFi Deauth Attack
 Wi-Dos is a firmware that performs Deauth Attacks, A Deauthentication attack is often confused with WiFi-jamming, as they block user from accessing Wi-Fi networks. 
 
-> Note: This is only for Eduction Purpose please don't use on public Wi-Fi network or in home network for Fun Purpose.
+> Note: This is only for Eduction Purpose please don't use on public Wi-Fi Network or in home network for Fun Purpose.
 
 ## How To Use
 
 
-1. First You have a netwok adapter which support moniter mode.
+1. First You have a Netwok adapter which support Moniter mode.
 
-2. Connect the network adapter and turn on the monitor mode 
+2. Connect the Network adapter and turn on the Monitor mode 
 
   `airmon-ng start wlan0`
 

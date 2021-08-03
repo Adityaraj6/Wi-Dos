@@ -11,11 +11,15 @@ Wi-Dos is a firmware that performs Deauth Attacks, A Deauthentication attack is 
 
 2. Connect the Network adapter and turn on the Monitor mode 
 
-  `airmon-ng start wlan0`
+```
+sudo airmon-ng start wlan0
+```
 
 3. Type this simple command and hit enter
   
-  `sudo python3 Wi Dos.py`
+ ```
+sudo python3 Wi Dos.py
+```
 
 
 4. Then they Scan all wireless network around you, select Target & Done   
